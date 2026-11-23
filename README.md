@@ -1,4 +1,4 @@
-# mi-segundo-repo
+# plug-git
 ## Ejemplo de subtitulo
 
 *Práctica de repos con comandos*
