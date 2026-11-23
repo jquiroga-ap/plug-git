@@ -1,2 +1,7 @@
 # mi-segundo-repo
-Práctica de repos con comandos
+## Ejemplo de subtitulo
+
+*Práctica de repos con comandos*
+
+**negritas**
+
